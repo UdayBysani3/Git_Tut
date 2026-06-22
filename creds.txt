@@ -1,2 +1,0 @@
-name = uday
-password = uday@143
